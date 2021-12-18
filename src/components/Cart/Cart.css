@@ -1,0 +1,26 @@
+.item{
+    display: flex;
+    justify-content: space-between;
+}
+
+.person-img{
+    max-width: 3vw;
+    margin-bottom: 2vh;
+}
+
+.item > p{
+    margin-right: 6vw;
+}
+
+.total{
+    margin: 0 4vw;
+    background-color: #f8f8f8;
+    display: flex;
+    justify-content: space-between;
+}
+
+.shipping{
+    display: flex;
+    justify-content: space-around;
+    margin: 5vh 3vw;
+}

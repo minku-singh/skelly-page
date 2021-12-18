@@ -1,0 +1,29 @@
+.ship{
+    height : 65vh;
+    width: 40vw;
+}
+
+.form{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ship > .button{
+    margin: 0 0 10vh 2vw;
+}
+
+input, select{
+    margin: 1vh 2vw;
+}
+
+.ship > p {
+    margin-left: 2vw;
+}
+
+.round-corner-select{
+    width: 13.5vw;
+    height: 5vh;
+    border-radius: 10px;
+    border: 2px solid #a9a9a9;
+    padding: 4px 4px;
+}

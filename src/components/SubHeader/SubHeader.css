@@ -1,0 +1,13 @@
+.sub-header{
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4px;
+    margin: 1vw 1vw;
+}
+
+.end > .icon{
+    padding: 0 2vw;
+}
+

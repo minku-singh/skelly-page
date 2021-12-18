@@ -1,0 +1,22 @@
+.header{
+    height : 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #f4f4f4;
+}
+
+ul{
+    display: flex;
+}
+ul > li{
+    list-style: none;
+    margin: 0 2vw;
+}
+h2{
+    margin: 0 1vw;
+    padding: 4px;
+}
+h2 > span{
+    color: orange;
+}

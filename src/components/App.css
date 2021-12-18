@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.round-corner{
+    width: auto;
+    height: 5vh;
+    border-radius: 10px;
+    border: 2px solid #a9a9a9;
+    padding: 4px 4px;
+}
